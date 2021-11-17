@@ -14,6 +14,7 @@ I'm Kelvin, a software developer who is currenlty building android and web apps 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=WordPress)&nbsp;
 
 🌍 Find me around the web 
 - [![Twitter](https://img.shields.io/twitter/follow/lokaimoma?style=social)](https://twitter.com/lokaimoma)
