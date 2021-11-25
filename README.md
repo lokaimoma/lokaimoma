@@ -4,7 +4,7 @@ I'm Kelvin, a software developer who is currenlty building android and web apps 
 - 👯 I’m looking foward to collaborate on any android or web projects available
 - 💬 Ask me anything about the technologies I use below 
 
-🛠 Technologies I Use
+🛠 Technologies & Languages I Use
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
