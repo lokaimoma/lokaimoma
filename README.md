@@ -17,6 +17,7 @@ I'm Kelvin, a software developer who is currenlty building android and web apps 
 ![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=WordPress&logoColor=blue)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=Dart&logoColor=blue)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=Flutter&logoColor=blue)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=React&logoColor=blue)&nbsp;
 
 🌍 Find me around the web 
 - [![Twitter](https://img.shields.io/twitter/follow/lokaimoma?style=social)](https://twitter.com/lokaimoma)
