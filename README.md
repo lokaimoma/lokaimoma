@@ -1,5 +1,5 @@
 ### Hello Friend 👋
-I'm Kelvin, a software developer who is currenlty building android and web apps for fun.
+I'm Kelvin, a software developer who is currenlty building mobile and web apps for fun.
 
 - 👯 I’m looking foward to collaborate on any android or web projects available
 - 💬 Ask me anything about the technologies I use below 
