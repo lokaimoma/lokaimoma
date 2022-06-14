@@ -14,9 +14,6 @@ I'm Kelvin, a software developer who is currenlty building mobile and web apps f
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=WordPress&logoColor=blue)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=Dart&logoColor=blue)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=Flutter&logoColor=blue)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=React&logoColor=blue)&nbsp;
 ![GraphQl](https://img.shields.io/badge/GraphQl-05122A?style=flat&logo=GraphQl&logoColor=E00098)&nbsp;
 
