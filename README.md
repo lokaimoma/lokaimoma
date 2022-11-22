@@ -17,6 +17,7 @@ I'm Kelvin, a software developer who is currenlty building mobile and web apps f
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=React&logoColor=blue)&nbsp;
 ![GraphQl](https://img.shields.io/badge/GraphQl-05122A?style=flat&logo=GraphQl&logoColor=E00098)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust&logoColor=brown)&nbsp;
+![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=Svelte&logoColor=orange)&nbsp;
 
 🌍 Find me around the web 
 - [![Twitter](https://img.shields.io/twitter/follow/lokaimoma?style=social)](https://twitter.com/lokaimoma)
